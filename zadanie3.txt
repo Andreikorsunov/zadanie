@@ -1,4 +1,4 @@
-Kuidas on css-is kommentaare defineeritud? märgi õige vastus plussiga
+Kuidas on css-is kommentaare defineeritud? mÃ¤rgi Ãµige vastus plussiga 
 
 1) //
 2) /
