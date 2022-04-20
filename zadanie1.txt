@@ -1,4 +1,4 @@
-Väljundtabel rimas, kus riik = tartu
+VÃ¤ljundtabel rimas, kus riik = tartu 
 
 SELECT FROM rimasik
 WHERE riik = 'Tart'
