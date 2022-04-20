@@ -1,5 +1,5 @@
-Mis on HTML? märgi õige vastus plussiga
+Mis on HTML? mÃ¤rgi Ãµige vastus plussiga 
 
-1) HTML on lehe hüperteksti märgistuskeel.
+1) HTML on lehe hÃ¼perteksti mÃ¤rgistuskeel.
 2) HTML on astmelised stiililehed.
-3) HTML on skriptimiskeel, mida kasutatakse peamiselt serveripoolsetes lahendustes dünaamiliste veebilehtede loomisel.
+3) HTML on skriptimiskeel, mida kasutatakse peamiselt serveripoolsetes lahendustes dÃ¼naamiliste veebilehtede loomisel.
