@@ -1,0 +1,6 @@
+Kuidas on css-is kommentaare defineeritud? märgi õige vastus plussiga
+
+1) //
+2) /
+3) /**/
+4) !--!
